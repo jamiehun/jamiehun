@@ -1,4 +1,5 @@
-### Hello World, 안녕하세요 👋
+### Hello World 👋 
+### Bridging AI and Finance - accounting, tax, automation 💻
 
 <!--
 **jamiehun/jamiehun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
